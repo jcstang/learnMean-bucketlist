@@ -1,0 +1,19 @@
+{
+  "name": "awesome-bucketlist",
+  "version": "1.0.0",
+  "description": "A simple bucketlist app using MEAN stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "author": "Jacob Stanger",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "~1.18.3",
+    "cors": "~2.8.3",
+    "express": "~4.16.3",
+    "mongoose": "~4.11.0",
+    "nodemon": "1.18.4"
+  }
+}
